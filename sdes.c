@@ -1,8 +1,7 @@
 //
 //  s-des.c
-//  Task_1
 //
-//  Created by Shreya Wagley 20591029
+//  Created by Shreya Wagley 
 //
 #include <stdio.h>
 #include <string.h>
